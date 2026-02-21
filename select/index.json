@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "海のリビング",
+  "base_artist": "鈴木鈴木",
+  "createdAt": "2026-02-21T14:10:15.290248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海のリビング",
+      "artist": "鈴木鈴木",
+      "has_synced": true,
+      "path": "select/01_海のリビング_鈴木鈴木.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海のリビング",
+      "artist": "鈴木鈴木",
+      "has_synced": false,
+      "path": "select/pl_01_海のリビング_鈴木鈴木.txt"
+    }
+  ]
+}
